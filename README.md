@@ -24,7 +24,7 @@ Very enthusiastic in website development💙. Has a strong desire to become a hi
   </tr>
 </table>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=azrilardian&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=azrilardian05&show_icons=true)
 
 
 ---
