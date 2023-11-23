@@ -6,21 +6,21 @@ Very enthusiastic in website development💙. Has a strong desire to become a hi
 
 -   🌱 I’m currently learning Shopify
 -   👯 I’m looking to collaborate with other Front End Developer
--   🥅 2022 Goals: become a better front end developer
+-   🥅 2023 Goals: Become a better front end developer
 -   😄 Pronouns: indonesia / english
--   ⚡ Fun fact: i love to write poetry
+-   ⚡ Fun fact: Poet Writer
 
 ### Stats
 <table>
   <tr>
     <td> :one: Internships Completed </td>
-    <td> :two::zero: Projects Completed </td>
-    <td>  :five: Guided Projects  </td>
+    <td> :two::nine: Projects Completed </td>
+    <td>  :seven: Guided Projects  </td>
   </tr>
   <tr>
-    <td>  :two::nine: Certificated  </td>
+    <td>  :three::two: Certificated  </td>
     <td>  :three::nine: Github Repo </td>
-    <td>  :one::six: Online Courses  </td>
+    <td>  :one::nine: Online Courses  </td>
   </tr>
 </table>
 
