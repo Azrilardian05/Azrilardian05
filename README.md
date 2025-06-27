@@ -1,5 +1,3 @@
-### Hi there. I am Azril Ardian. 👋
-*irfan05ariell@gmail.com*
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
 Very enthusiastic in website development💙. Has a strong desire to become a high quality front end developer. Flexible with new technology and adapt quickly. Have good individual and team work skills.
@@ -9,38 +7,6 @@ Very enthusiastic in website development💙. Has a strong desire to become a hi
 -   🥅 2023 Goals: Become a better front end developer
 -   😄 Pronouns: indonesia / english
 -   ⚡ Fun fact: Poet Writer
-
-### Stats
-<table>
-  <tr>
-    <td> :one: Internships Completed </td>
-    <td> :two::nine: Projects Completed </td>
-    <td>  :seven: Guided Projects  </td>
-  </tr>
-  <tr>
-    <td>  :three::two: Certificated  </td>
-    <td>  :three::nine: Github Repo </td>
-    <td>  :one::nine: Online Courses  </td>
-  </tr>
-</table>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=azrilardian05&show_icons=true)
-
-
----
-
-### :zap: Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
-### Technical Skills
-<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=eed718">
-<img src="https://img.shields.io/badge/-React-161616?style=flat&logo=react&logoColor=00d9ff">
-<img src="https://img.shields.io/badge/-Problem%20Solving-ffa804?style=flat"> </br>
-<img src="https://img.shields.io/badge/-Microsoft%20Word-164ead?style=flat&logo=microsoft%20word"> <img src="https://img.shields.io/badge/-Microsoft%20Excel-026f39?style=flat&logo=microsoft%20excel"> <img src="https://img.shields.io/badge/-Microsoft%20PowerPoint-b9361a?style=flat&logo=microsoft%20powerpoint">
 
 ### Contact Me
 
