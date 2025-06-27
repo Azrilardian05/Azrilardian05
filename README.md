@@ -2,7 +2,7 @@
 
 Very enthusiastic in website development. Has a strong desire to become a high quality front end developer. Flexible with new technology and adapt quickly. Have good individual and team work skills.
 
--   🌱 I’m currently learning Shopify
+-   🌱 I’m currently learning advance Next Js
 -   👯 I’m looking to collaborate with other Front End Developer
 -   🥅 2025 Goals: Become a better front end developer
 -   😄 Pronouns: indonesia / english
